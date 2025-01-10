@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is John, and I'm a interested in all things web. I have a bachelors in IT and more than 10 years experience in Backend and Frontend development.
+- 🔭 I’m currently working on ReactJS, Wordpress, Server Management and Website Development...
+- 🌱 I’m currently learning ReactJS and Headless Wordpress...
+- 👯 I’m looking to collaborate on ReactJS projects ...
+
 <!--
 **cabosur/cabosur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
